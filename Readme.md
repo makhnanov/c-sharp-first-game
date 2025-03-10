@@ -1,7 +1,7 @@
 # This is my first C# Game =)
 
 # Preview
-![Preview](https://github.com/makhnanov/c-sharp-first-game/blob/main/preview.jpg?raw=true)
+![Preview](https://github.com/makhnanov/c-sharp-first-game/blob/master/preview.jpg?raw=true)
 
 # Requirements
 ```bash
